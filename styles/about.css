@@ -1,0 +1,30 @@
+*{
+    margin:20px;
+}
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+}
+header{
+    background-color:black;
+}
+nav, a{
+    text-decoration:none;
+    padding:10px;
+    color:white;
+}
+a:hover{
+    text-decoration:underline;
+}
+.div1, .div2 {
+    text-align:justify;
+}
+hr{
+    color:red;
+}
+footer{
+    text-align:center;
+    background-color:darkred;
+    color:white;
+    padding:50px;
+}
